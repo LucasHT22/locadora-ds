@@ -8,3 +8,8 @@ O padrão DAO (Data Access Object), em português "Objeto de Acesso a Dados", é
 ## MVC Pattern
 
 O padrão MVC (Model View Controller), é um padrão de design de software que separa um aplicativo em três componentes interconectados: o Modelo, a Visualização e o Controlador (Model, View e Controller).
+
+
+## BigDecimal
+
+Diferente dos tipos primitivos, BigDecimal permite a representação e manipulação de números decimais com uma precisão arbitrária, eliminando os problemas de arredondamento e precisão que são comuns com o uso de double.
