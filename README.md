@@ -13,3 +13,8 @@ O padrão MVC (Model View Controller), é um padrão de design de software que s
 ## BigDecimal
 
 Diferente dos tipos primitivos, BigDecimal permite a representação e manipulação de números decimais com uma precisão arbitrária, eliminando os problemas de arredondamento e precisão que são comuns com o uso de double.
+
+
+## Expressão regular (Regular expression / Regex)
+
+Uma Expressão Regular (ou Regex) é um padrão (ou filtro) que descreve um conjunto de strings que corresponde ao padrão.
