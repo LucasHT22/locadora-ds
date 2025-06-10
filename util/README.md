@@ -4,26 +4,26 @@ Arquivos auxiliares e de uso comum.
 
 ---
 
-## 📌 Utilitários
+## Utilitários
 
-### ✅ ValidadorCPF.java
+### ValidadorCPF.java
 
 Classe responsável por validar números de CPF (Cadastro de Pessoa Física).
 
 ---
 
-### ✅ EntradaESaidaDeDados.java
+### EntradaESaidaDeDados.java
 
 Classe que centraliza métodos para leitura e exibição de dados 
 
 ---
 
-### ✅ ConversorNumerico.java
+### ConversorNumerico.java
 
 Classe que converte Strings para tipos numéricos com segurança.
 
 ---
 
-### ✅ ConnectionFactory.java
+### ConnectionFactory.java
 
 Classe que cria e gerencia conexões com o banco de dados.
