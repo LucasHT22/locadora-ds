@@ -49,6 +49,11 @@ Responsável por gerenciar os dados da aplicação, incluindo leitura, escrita e
 
 Responsável por apresentar os dados do modelo ao usuário. É a interface gráfica que o utilizador vê e interage.
 
+## Factory method pattern
+
+Um padrão de projeto que utiliza métodos de fábrica para lidar com o problema de criar objetos sem precisar especificar suas classes exatas. Em vez de chamar um construtor, isso é feito invocando um método de fábrica para criar um objeto.
+
+
 ## BigDecimal
 
 Diferente dos tipos primitivos, BigDecimal permite a representação e manipulação de números decimais com uma precisão arbitrária, eliminando os problemas de arredondamento e precisão que são comuns com o uso de double.
