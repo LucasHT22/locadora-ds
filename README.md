@@ -1,14 +1,39 @@
-# locadora-ds
+# Locadora DS
+Por Lucas Eduardo, Lucas Honda e Nathaly Pereira
 
+## Gerenciamento de erro (error handling)
+
+Estratégias e técnicas utilizadas para lidar com situações inesperadas ou desvios que podem ocorrer durante o funcionamento de um sistema, processo ou atividade.
+
+Exemplo com try/catch:
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a8e7ee64813713fee394b9f68cdf95fd87893b2b_image.png)
+
+O try contém o código que pode gerar uma exceção, e o catch contém o código que será executado se uma exceção for lançada no bloco try. 
 
 ## DAO Pattern
 
 O padrão DAO (Data Access Object), em português "Objeto de Acesso a Dados", é um padrão de projeto que separa a lógica de negócios da lógica de acesso aos dados, encapsulando as operações de banco de dados em objetos próprios.
 
+### O que consiste um arquivo DAO?
+
+Consiste em uma série de métodos que, de maneira sanitizada, isto é, prevenindo SQL Injection, acessa e faz CRUD no banco de dados.
+
+### O que é SQL Injection?
+
+Uma vulnerabilidade de segurança que ocorre quando um invasor manipula a entrada do usuário para inserir ou modificar consultas SQL, potencialmente obtendo acesso a dados confidenciais ou manipulando o banco de dados.
+
+### O que é CRUD?
+
+CRUD é a sigla para Create (criar), Read (ler), Update (atualizar) e Delete (excluir), e representa as quatro operações básicas que são fundamentais em qualquer sistema que interage com um banco de dados.
+
+Aprenda mais: https://www.oracle.com/java/technologies/dataaccessobject.html
+
 ## MVC Pattern
 
 O padrão MVC (Model View Controller), é um padrão de design de software que separa um aplicativo em três componentes interconectados: o Modelo, a Visualização e o Controlador (Model, View e Controller).
 
+Aprenda mais: https://developer.mozilla.org/en-US/docs/Glossary/MVC
 
 ## BigDecimal
 
