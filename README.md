@@ -11,6 +11,10 @@ Exemplo com try/catch:
 
 O try contém o código que pode gerar uma exceção, e o catch contém o código que será executado se uma exceção for lançada no bloco try. 
 
+## Fallback
+
+Fallback, ou contingência, é uma abordagem para lidar com falhas ou erros em um sistema, fornecendo uma alternativa quando a lógica principal não pode ser executada.
+
 ## Padrão de projeto de software (Software design pattern)
 
 Um padrão de desenho ou padrão de projeto é uma solução geral para um problema que ocorre com frequência dentro de um determinado contexto no projeto de software. 
