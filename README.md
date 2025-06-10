@@ -63,6 +63,17 @@ Um padrão de projeto que utiliza métodos de fábrica para lidar com o problema
 Diferente dos tipos primitivos, BigDecimal permite a representação e manipulação de números decimais com uma precisão arbitrária, eliminando os problemas de arredondamento e precisão que são comuns com o uso de double.
 
 
+## GridBagLayout e GridBagConstraints
+
+A classe GridBagConstraints especifica restrições para componentes que são dispostos usando a classe GridBagLayout.
+
+Um GridBagLayout coloca componentes em uma grade de linhas e colunas, permitindo que componentes especificados abranjam várias linhas ou colunas.
+
+Aprenda mais:
+- https://docs.oracle.com/javase/8/docs/api/java/awt/GridBagConstraints.html
+- https://docs.oracle.com/javase/tutorial/uiswing/layout/gridbag.html
+
+
 ## Expressão regular (Regular expression / Regex)
 
 Uma Expressão Regular (ou Regex) é um padrão (ou filtro) que descreve um conjunto de strings que corresponde ao padrão.
