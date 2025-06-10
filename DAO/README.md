@@ -5,24 +5,24 @@ O padrão DAO (Data Access Object), em português "Objeto de Acesso a Dados", é
 
 ## Classes DAO disponíveis
 
-### 🔹 ClienteDAO
+### ClienteDAO
 
 Responsável por acessar e manipular os dados dos clientes no sistema.
 
 ---
 
-### 🔹 VeiculoDAO
+### VeiculoDAO
 
 Controla as operações de acesso aos dados relacionados aos veículos da locadora.
 
 ---
 
-### 🔹 LocacaoDAO
+### LocacaoDAO
 
 Gerencia as locações (empréstimos) de veículos realizadas por clientes.
 
 ---
 
-### 🔹 UsuarioDAO
+### UsuarioDAO
 
 Gerencia os usuários do sistema, normalmente os administradores e atendentes.
