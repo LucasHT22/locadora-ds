@@ -66,3 +66,12 @@ Diferente dos tipos primitivos, BigDecimal permite a representação e manipula�
 ## Expressão regular (Regular expression / Regex)
 
 Uma Expressão Regular (ou Regex) é um padrão (ou filtro) que descreve um conjunto de strings que corresponde ao padrão.
+
+
+## Leitura Extra:
+
+- MARTIN, Robert C. Código limpo: habilidades práticas do agile software. [Sem local de publicação]: Alta Books, 2009.
+- MARTIN, Robert C. Arquitetura limpa: o guia do artesão para estrutura e design de software. Rio de Janeiro: Alta Books, 2019.
+- BLOCH, Joshua. Java Efetivo: As melhores práticas para a plataforma Java. Trad. Cibelle Roberta Marques Ravaglia. Rio de Janeiro: Alta Books, 2019.
+- LOI, Marc; NIEMEYER, Patrick; LEUCK, Daniel. Learning Java. 6ª ed. [S.l.]: O'Reilly, 2023.
+- BATES, Bert; SIERRA, Kathy. Use a cabeça! : Java. 2. ed. Rio de Janeiro: Alta Books, 2007. 
